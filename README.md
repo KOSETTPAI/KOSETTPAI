@@ -1,7 +1,7 @@
 # Aung Sett Paing (Ko Sett) 👋
-🎓 **Student at CMKL University** | 🧑‍💻 **AI Engineer Intern** at NUOS Co., Ltd | 📊 **Data Analyst** | 🌱 **AI & Machine Learning Enthusiast**
+🎓 **Student at CMKL University** | 🧑‍💻 **Strategist** at CMKL University | 🌱 **AI & Machine Learning Enthusiast**
 
-I’m currently pursuing a **B.Eng in Artificial Intelligence & Computer Engineering** at **CMKL University** and working as an **AI Engineer Intern** at NUOS Co., Ltd. I have experience in Machine Learning, Deep Learning, and building AI agents using frameworks like LangChain and LangGraph. Passionate about innovation, I participate in AI hackathons and contribute to various data science and AI projects.
+I’m currently pursuing a **B.Eng in Artificial Intelligence & Computer Engineering** at **CMKL University** and working as a **Strategist** at CMKL University. I have experience in Machine Learning, Deep Learning, and building AI agents using frameworks like LangChain and LangGraph. Passionate about innovation, I contribute to various data science and AI projects.
 
 ### 🌟 Skills:
 - **Programming Languages**: Python, SQL

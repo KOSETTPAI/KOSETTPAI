@@ -11,6 +11,6 @@ I’m currently pursuing a **B.Eng in Artificial Intelligence & Computer Enginee
 - **Tools**: Jupyter, VSCode, Git, Docker
 
 ### 🔗 Let's Connect:
-- [LinkedIn](your-linkedin-profile)
-- [Portfolio](your-website)
+- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/aung-sett-paing-6821021b0/))
+- [Portfolio]([your-website](https://sites.google.com/view/aungsettpaing/home))
 

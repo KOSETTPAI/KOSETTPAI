@@ -1,16 +1,16 @@
-## Hi there 👋
+# Aung Sett Paing (Ko Sett) 👋
+🎓 **Student at CMKL University** | 🧑‍💻 **AI Engineer Intern** at NUOS Co., Ltd | 📊 **Data Analyst** | 🌱 **AI & Machine Learning Enthusiast**
 
-<!--
-**KOSETTPAI/KOSETTPAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing a **B.Eng in Artificial Intelligence & Computer Engineering** at **CMKL University** and working as an **AI Engineer Intern** at NUOS Co., Ltd. I have experience in Machine Learning, Deep Learning, and building AI agents using frameworks like LangChain and LangGraph. Passionate about innovation, I participate in AI hackathons and contribute to various data science and AI projects.
 
-Here are some ideas to get you started:
+### 🌟 Skills:
+- **Programming Languages**: Python, SQL
+- **AI Frameworks**: LangChain, LangGraph, OpenAI API, TensorFlow
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Machine Learning**: Supervised & Unsupervised Learning, Computer Vision
+- **Tools**: Jupyter, VSCode, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Let's Connect:
+- [LinkedIn](your-linkedin-profile)
+- [Portfolio](your-website)
+
